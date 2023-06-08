@@ -5,7 +5,7 @@
 This repository contains a functional Express.js API that connects to a MySQL database using Sequelize. By following the instructions below, you will be able to set up the API, connect it to your database, and interact with the provided routes using Insomnia Core.
 
 ## Technology
-Node.js (version >= 12)
+Node.js
 MySQL database
 
 ## Installation
